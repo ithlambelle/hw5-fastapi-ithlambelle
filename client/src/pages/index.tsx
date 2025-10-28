@@ -5,7 +5,7 @@ import { Input, Button, Card, Typography, Space, Alert, Spin, List, Tag } from "
 import { SearchOutlined, PlusOutlined } from "@ant-design/icons";
 
 const { Title, Text } = Typography;
-const API_URL = "http://localhost:5000";
+const API_URL = "http://localhost:5001";
 
 interface Product {
   id: number;
